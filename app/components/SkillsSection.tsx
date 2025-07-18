@@ -48,7 +48,7 @@ export const SkillsSection = () => {
 							},
 							{
 								category: 'Level27 – Hasselt',
-								timePeriod: '2de Week van paasverlof',
+								timePeriod: '2de Week van paasverlof & Juli 2025',
 								skills: [
 									{ name: 'Overzetten van DNS-records', level: 95 },
 									{ name: 'Communiceren met medewerkers', level: 100 },
